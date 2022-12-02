@@ -2195,6 +2195,8 @@ flexible messaging model and an intuitive client API.</description>
         <!-- package management releated modules (begin) -->
         <module>pulsar-package-management</module>
         <!-- package management releated modules (end) -->
+
+        <module>zk-study</module>
       </modules>
     </profile>
 
